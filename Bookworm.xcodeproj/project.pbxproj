@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		EE53729A27DA9AD0000DBCE6 /* AddBookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE53729927DA9AD0000DBCE6 /* AddBookView.swift */; };
+		EE53729E27DAA484000DBCE6 /* RatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE53729D27DAA484000DBCE6 /* RatingView.swift */; };
 		EE782C9A27D960B00042D8CC /* BookwormApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE782C9927D960B00042D8CC /* BookwormApp.swift */; };
 		EE782C9C27D960B00042D8CC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE782C9B27D960B00042D8CC /* ContentView.swift */; };
 		EE782C9E27D960B10042D8CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE782C9D27D960B10042D8CC /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		EE53729927DA9AD0000DBCE6 /* AddBookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBookView.swift; sourceTree = "<group>"; };
+		EE53729D27DAA484000DBCE6 /* RatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingView.swift; sourceTree = "<group>"; };
 		EE782C9627D960AF0042D8CC /* Bookworm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bookworm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE782C9927D960B00042D8CC /* BookwormApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookwormApp.swift; sourceTree = "<group>"; };
 		EE782C9B27D960B00042D8CC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				EE782C9927D960B00042D8CC /* BookwormApp.swift */,
 				EE782C9B27D960B00042D8CC /* ContentView.swift */,
 				EE53729927DA9AD0000DBCE6 /* AddBookView.swift */,
+				EE53729D27DAA484000DBCE6 /* RatingView.swift */,
 				EE782CA727D973190042D8CC /* Bookworm.xcdatamodeld */,
 				EE782CAA27D9736A0042D8CC /* DataController.swift */,
 				EE782C9D27D960B10042D8CC /* Assets.xcassets */,
@@ -149,6 +152,7 @@
 				EE782C9C27D960B00042D8CC /* ContentView.swift in Sources */,
 				EE782CAB27D9736A0042D8CC /* DataController.swift in Sources */,
 				EE782CA927D973190042D8CC /* Bookworm.xcdatamodeld in Sources */,
+				EE53729E27DAA484000DBCE6 /* RatingView.swift in Sources */,
 				EE782C9A27D960B00042D8CC /* BookwormApp.swift in Sources */,
 				EE53729A27DA9AD0000DBCE6 /* AddBookView.swift in Sources */,
 			);
