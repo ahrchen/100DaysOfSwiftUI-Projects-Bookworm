@@ -17,6 +17,7 @@
 		EE782CA127D960B10042D8CC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE782CA027D960B10042D8CC /* Preview Assets.xcassets */; };
 		EE782CA927D973190042D8CC /* Bookworm.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EE782CA727D973190042D8CC /* Bookworm.xcdatamodeld */; };
 		EE782CAB27D9736A0042D8CC /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE782CAA27D9736A0042D8CC /* DataController.swift */; };
+		EEF2629A27DD4C0C0025418C /* BookExtentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEF2629927DD4C0C0025418C /* BookExtentions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		EE782CA027D960B10042D8CC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EE782CA827D973190042D8CC /* Bookworm.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Bookworm.xcdatamodel; sourceTree = "<group>"; };
 		EE782CAA27D9736A0042D8CC /* DataController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
+		EEF2629927DD4C0C0025418C /* BookExtentions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookExtentions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		EE782C9827D960AF0042D8CC /* Bookworm */ = {
 			isa = PBXGroup;
 			children = (
+				EEF2629927DD4C0C0025418C /* BookExtentions.swift */,
 				EE782C9927D960B00042D8CC /* BookwormApp.swift */,
 				EE782C9B27D960B00042D8CC /* ContentView.swift */,
 				EE53729927DA9AD0000DBCE6 /* AddBookView.swift */,
@@ -157,6 +160,7 @@
 			files = (
 				EE782C9C27D960B00042D8CC /* ContentView.swift in Sources */,
 				EE45125127DC176A0086FC5E /* DetailView.swift in Sources */,
+				EEF2629A27DD4C0C0025418C /* BookExtentions.swift in Sources */,
 				EE782CAB27D9736A0042D8CC /* DataController.swift in Sources */,
 				EE5372A027DAA83D000DBCE6 /* EmojiRatingView.swift in Sources */,
 				EE782CA927D973190042D8CC /* Bookworm.xcdatamodeld in Sources */,
